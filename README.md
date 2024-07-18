@@ -1,8 +1,10 @@
-# React + Vite
+#TODO-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
+<b>NAME  : </b> TODO-APPLICATION
+<br> 
+<b>DEVELOPER :</b> AYUSH GHOLE 
+<br>
+<b>DESCRIPTION :</b> This is the applicaation created by using ReactJs which accepts the input of TODO and date and will add the TODO - task perform the assigned on the particular date.
+<br>
+<b>SKILLS :</b> ReactJs , CSS and HTML5
